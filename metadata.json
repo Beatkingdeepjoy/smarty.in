@@ -1,0 +1,8 @@
+
+{
+  "name": "Smarty - AI Financial Command Center",
+  "description": "Premium student expense tracker with red-black aesthetic, OTP security, and deep AI financial insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

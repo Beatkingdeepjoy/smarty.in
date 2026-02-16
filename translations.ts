@@ -1,0 +1,47 @@
+
+export const TRANSLATIONS = {
+  en: {
+    dashboard: 'Command Center',
+    history: 'Logs',
+    budgets: 'Targets',
+    addTransaction: 'New Expense',
+    totalSpent: 'Burn Rate',
+    weeklyMomentum: 'Trend Analysis',
+    aiAdvisor: 'Smarty AI',
+    financialHealth: 'Risk Profile',
+    analyzeNow: 'Run Diagnostic',
+    budgetPlanner: 'Resource Allocation',
+    monthlyGoals: 'Hard Caps',
+    onTrack: 'Secure',
+    limitExceeded: 'Critical Overrun',
+    settings: 'Core Config',
+    logout: 'Exit Protocol',
+    welcomeBack: 'Hello Operator',
+    loginToStart: 'Authorized personnel only',
+    login: 'Initialize',
+    signup: 'Enroll',
+    report: 'Intel Report'
+  },
+  bn: {
+    dashboard: 'কমান্ড সেন্টার',
+    history: 'ইতিহাস',
+    budgets: 'বাজেট',
+    addTransaction: 'নতুন খরচ',
+    totalSpent: 'মোট খরচ',
+    weeklyMomentum: 'সাপ্তাহিক গতি',
+    aiAdvisor: 'স্মার্টি এআই',
+    financialHealth: 'আর্থিক স্বাস্থ্য',
+    analyzeNow: 'বিশ্লেষণ করুন',
+    budgetPlanner: 'বাজেট পরিকল্পনা',
+    monthlyGoals: 'মাসিক লক্ষ্য',
+    onTrack: 'সঠিক পথে',
+    limitExceeded: 'সীমা অতিক্রম',
+    settings: 'সেটিংস',
+    logout: 'লগ আউট',
+    welcomeBack: 'স্বাগতম',
+    loginToStart: 'আপনার নিরাপদ ভল্টে প্রবেশ করুন',
+    login: 'প্রবেশ করুন',
+    signup: 'অ্যাকাউন্ট খুলুন',
+    report: 'রিপোর্ট'
+  }
+};
